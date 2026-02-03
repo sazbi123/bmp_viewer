@@ -4,6 +4,7 @@ bmpファイルビューア
 
 使用方法：
 python3 bmp_viewer.py bmpファイルのパス
+basiclib.pyはbmp_viewer.pyが使用するライブラリなので通常これは実行しません
 
 これが正常に実行できると
 ・bmp_header_dump.txt
